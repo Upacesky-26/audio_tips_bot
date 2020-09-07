@@ -1,6 +1,6 @@
 # The different messages accessible from the bot
 answers:
-  - "Hello \#{user_name}. Thanks for following me and welcome to a wonderful world of audio. I'm a robot giving advices about audio recording, producing, mixing and music marketing. I love free musicans and free software, so you'll hear about this a lot here."
+  - "Hello #{user_name}. Thanks for following me and welcome to a wonderful world of audio. I'm a robot giving advices about audio recording, producing, mixing and music marketing. I love free musicans and free software, so you'll hear about this a lot here."
 
 tips:
   - software:
