@@ -50,12 +50,14 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     whatlanguage (1.0.6)
+    yaml (0.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   elephrame
+  yaml
 
 BUNDLED WITH
    2.1.4
