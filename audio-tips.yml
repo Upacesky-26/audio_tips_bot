@@ -1,13 +1,20 @@
 # The different messages accessible from the bot
 answers:
+  - "Hello \#{user_name}. Thanks for following me and welcome to a wonderful world of audio. I'm a robot giving advices about audio recording, producing, mixing and music marketing. I love free musicans and free software, so you'll hear about this a lot here."
 
 tips:
   - software:
     - "Ardour is a gret DAW. It's perfect for everything audio, from recording to mixing and up to mastering. \nCheck it out at http://ardour.org."
-    - "Zrythm is the new kid in the block if you want to produce modern music with free software. \nCheck it out at http://zrythm.org"
+    - "Zrythm is the new kid in the blocks if you want to produce modern music with free software. \nCheck it out at http://zrythm.org"
+    - "So you just recorded this singer songwriter with two mics: one for the guitar, the other one for the voice. It's time to check what's the best phase setting for those. You don't want comb filtering your this beautiful performance, do you? I'd recommend using #lsp Phase Detector. Run your two mono tracks and see what's the best setting.\nhttps://lsp-plug.in/?page=manuals&section=phase_detector"
   - producing:
-  - recording: 
+    - "Tune your drums. If you're a drummer, you know this already. If you're a producer and don't know yet, learn about how to tune them. Be it live 🥁 or computer 🥁."
+  - recording:
+    - "Recording vocals on a budget? Find a quiet room first, then setup your mic a little bit off-axis so that plosives are no problems anymore. Or use a pop filter."
+    - "New to recording and wondering which mic to buy? Treat yourself with a dynamic mic as they won't pick up too much room noise. If you're in a quiet environment, go for a condenser mic."
+    - "It's not about the gear, it's about how to use it. And where. Focus on a great #recording room if you want great recordings."
   - mixing:
-    - "Be wild, do something to your mix that is not standard practice and see if you can take it to an interesting result. Sometimes, being different is the thing that wwill drive you forward"
+    - "Be wild, do something to your mix that is not standard practice and see if you can take it to an interesting result. Sometimes, being different is the thing that will drive you forward."
+    - "Think about using high- and lowpass filters before rushing to your EQ. It will solve a lot of low end problems and harshness. Mixing is all about creating space and contrast for everyone in the mix."
   - marketing: 
-    - Every book about music marketing will tell you the musicians should be great music makers, have integrity and should build a brand with a compelling story. \n
+    - "Every book about music marketing will tell you the musicians should be great music makers, have integrity and should build a brand with a compelling story. \n"
