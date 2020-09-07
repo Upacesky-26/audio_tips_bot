@@ -1,0 +1,11 @@
+# The different messages accessible from the bot
+answers:
+
+tips:
+  - software:
+    - "Ardour is a gret DAW. It's perfect for everything audio, from recording to mixing and up to mastering. \nCheck it out at http://ardour.org."
+    - "Zrythm is the new kid in the block if you want to produce modern music with free software. \nCheck it out at http://zrythm.org"
+  - producing:
+  - recording: 
+  - mixing: 
+  - marketing: 

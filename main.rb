@@ -1,9 +1,20 @@
 require 'elephrame'
 require 'yaml'
 
-messages = {
+answers = {
   welcome
 }
+
+tips = {
+  software
+  producing
+  recording
+  mixing
+  marketing
+
+}
+
+
 
 AudioTipsBot = Elephrame::Bots::PeriodicInteract.new '60s'
 
